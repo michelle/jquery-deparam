@@ -1,0 +1,15 @@
+{
+  "name": "jquery-deparam",
+  "main": "jquery-deparam.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/michelle/jquery-deparam",
+  "description": "An extraction of the deparam method from Ben Alman's jQuery BBQ",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
